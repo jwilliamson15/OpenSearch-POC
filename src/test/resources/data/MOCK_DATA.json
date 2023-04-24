@@ -1,0 +1,200 @@
+{"create": {"_index": "hotels"}}
+{"hotelId":"ce60e5fe-109d-4ba8-974b-ddb5d9c831d9","hotelName":"Johnston Group","hotelCoordinates":"3.9671435, 103.40391","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Rafaelita","country":"Malaysia","city":"Kuantan","region":"Pahang","price":655.09}
+{"create": {"_index": "hotels"}}
+{"hotelId":"a0bb5f19-62da-470f-8754-0bd164e2ee75","hotelName":"Wisozk, Hudson and Greenfelder","hotelCoordinates":"47.6126, 107.0219496","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Ximenez","country":"Mongolia","city":"Sergelen","region":null,"price":715.7}
+{"create": {"_index": "hotels"}}
+{"hotelId":"7f35fb46-7f19-4035-8079-ebb136472341","hotelName":"Wehner-Wyman","hotelCoordinates":"31.273176, 114.603098","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Edik","country":"China","city":"Hong’an Chengguanzhen","region":null,"price":797.22}
+{"create": {"_index": "hotels"}}
+{"hotelId":"989559c0-18df-49ac-a81d-3d32b80e0ac2","hotelName":"Davis, O'Keefe and Reinger","hotelCoordinates":"-6.5303987, 107.5386809","roomTypeId":"","roomTypeName":"Tillie","country":"Indonesia","city":"Cibatu","region":null,"price":79.24}
+{"create": {"_index": "hotels"}}
+{"hotelId":"090f35a1-6ca8-4d83-bfad-ad9aa0dfe881","hotelName":"Jones-Block","hotelCoordinates":"44.8209481, 19.3850911","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Nikki","country":"Serbia","city":"Salaš Crnobarski","region":null,"price":838.34}
+{"create": {"_index": "hotels"}}
+{"hotelId":"f18e5b43-479e-4d78-9540-0a5e8bf2bd42","hotelName":"Douglas, Borer and Prosacco","hotelCoordinates":"-7.1989224, 107.9072626","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Maud","country":"Indonesia","city":"Haurpanggung","region":null,"price":845.2}
+{"create": {"_index": "hotels"}}
+{"hotelId":"2d24bb22-0526-4465-97d3-c926ef2271d0","hotelName":"Lebsack-Kerluke","hotelCoordinates":"38.4613914, 70.7896966","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Jerry","country":"Tajikistan","city":"Qalaikhumb","region":null,"price":200.11}
+{"create": {"_index": "hotels"}}
+{"hotelId":"86f399e4-8c85-41fa-9185-47c8bf253979","hotelName":"Block Inc","hotelCoordinates":"38.4664687, -9.0952451","roomTypeId":"","roomTypeName":"Klarrisa","country":"Portugal","city":"Sampaio","region":"Setúbal","price":9.47}
+{"create": {"_index": "hotels"}}
+{"hotelId":"8da074ad-cb42-46d6-b12f-20abc4c1eee0","hotelName":"Kub, Mann and Nienow","hotelCoordinates":"39.7654612, -8.6206402","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Engracia","country":"Portugal","city":"Chã","region":"Santarém","price":409.55}
+{"create": {"_index": "hotels"}}
+{"hotelId":"6c57dd3b-bf80-44e3-bd30-9304b8ea7e2c","hotelName":"Dickens, Schroeder and Zulauf","hotelCoordinates":"7.5166669, 124.3666687","roomTypeId":"","roomTypeName":"Bren","country":"Philippines","city":"Mataya","region":null,"price":694.76}
+{"create": {"_index": "hotels"}}
+{"hotelId":"75a92f7b-5993-4647-94e0-e477c11ac36b","hotelName":"Will-Lemke","hotelCoordinates":"30.108216, 104.677091","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Jody","country":"China","city":"Yanjiang","region":null,"price":940.09}
+{"create": {"_index": "hotels"}}
+{"hotelId":"e76939de-a5b4-478f-8cf0-a0bebdaa1e56","hotelName":"Boehm and Sons","hotelCoordinates":"30.701369, 111.98348","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Virginie","country":"China","city":"Herong","region":null,"price":604.08}
+{"create": {"_index": "hotels"}}
+{"hotelId":"93090277-3e05-413b-86fb-e5d6322af46d","hotelName":"Waelchi, Langosh and Block","hotelCoordinates":"26.8503552, 90.960716","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Trina","country":"Bhutan","city":"Panbang","region":null,"price":673.7}
+{"create": {"_index": "hotels"}}
+{"hotelId":"020b13e0-7e5e-4099-b7cb-ecc059092a3f","hotelName":"Klocko-Stokes","hotelCoordinates":"43.8139627, 1.9593782","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Henrietta","country":"France","city":"Le Teil","region":"Rhône-Alpes","price":176.47}
+{"create": {"_index": "hotels"}}
+{"hotelId":"3a84a5cd-1651-47e2-bf7a-ae75d2631fdd","hotelName":"Ankunding and Sons","hotelCoordinates":"14.6539775, 121.0288525","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Lynn","country":"Philippines","city":"Bulacan","region":null,"price":914.79}
+{"create": {"_index": "hotels"}}
+{"hotelId":"123f98ed-d92a-4880-b459-92033f77e731","hotelName":"Dooley-Bahringer","hotelCoordinates":"49.4129509, 75.4772753","roomTypeId":"","roomTypeName":"Anthe","country":"Kazakhstan","city":"Qarqaraly","region":null,"price":226.95}
+{"create": {"_index": "hotels"}}
+{"hotelId":"cd181cc6-5fb5-4d8b-9ecc-cf7bc3c5d3a4","hotelName":"White and Sons","hotelCoordinates":"44.5706127, 18.0176034","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Mort","country":"Bosnia and Herzegovina","city":"Karadaglije","region":null,"price":213.01}
+{"create": {"_index": "hotels"}}
+{"hotelId":"348b5880-d07f-441f-aa62-0cad836c2ccb","hotelName":"Ziemann Inc","hotelCoordinates":"31.8123014, 34.7770192","roomTypeId":"","roomTypeName":"Stanleigh","country":"Israel","city":"Gedera","region":null,"price":521.97}
+{"create": {"_index": "hotels"}}
+{"hotelId":"c49778d8-54df-4ff0-923c-f422a30e9a03","hotelName":"Abbott-Cruickshank","hotelCoordinates":"4.0568941, 96.2468873","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Sheryl","country":"Indonesia","city":"Kuala Tuha","region":null,"price":704.47}
+{"create": {"_index": "hotels"}}
+{"hotelId":"3429da62-916d-49f7-9a69-ba310cc41a31","hotelName":"Mitchell-Jacobi","hotelCoordinates":"41.274605, -8.0974429","roomTypeId":"","roomTypeName":"Roderigo","country":"Portugal","city":"Casa Nova","region":"Porto","price":292.7}
+{"create": {"_index": "hotels"}}
+{"hotelId":"2c05445b-5c3c-4a3c-9236-a1b28e4a081c","hotelName":"Fay-Trantow","hotelCoordinates":"53.9476748, 32.8565262","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Isahella","country":"Russia","city":"Roslavl’","region":null,"price":803.74}
+{"create": {"_index": "hotels"}}
+{"hotelId":"aaef34e4-1823-4236-ac0c-5aa7f13655fe","hotelName":"Jerde-O'Kon","hotelCoordinates":"-8.0230452, 111.4111932","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Noell","country":"Indonesia","city":"Broto","region":null,"price":2.83}
+{"create": {"_index": "hotels"}}
+{"hotelId":"82ad0c37-1a7a-4dee-9c82-16d1e538d18d","hotelName":"Rau-Stamm","hotelCoordinates":"51.6521236, 39.0891762","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Jobyna","country":"Russia","city":"Pridonskoy","region":null,"price":797.24}
+{"create": {"_index": "hotels"}}
+{"hotelId":"f25fb435-1359-443c-8881-636a5b591353","hotelName":"Runolfsdottir-Hegmann","hotelCoordinates":"36.3163, 74.6786","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Ricki","country":"Pakistan","city":"Barishāl","region":null,"price":560.08}
+{"create": {"_index": "hotels"}}
+{"hotelId":"337442c1-887b-4891-aaf3-47ecc91ea8b1","hotelName":"Pfannerstill, Little and Bernier","hotelCoordinates":"24.880992, 118.71899","roomTypeId":"","roomTypeName":"Vinni","country":"China","city":"Baiqi","region":null,"price":194.19}
+{"create": {"_index": "hotels"}}
+{"hotelId":"7d81b0a0-2ca0-4d83-b7d4-2124bd598903","hotelName":"Dibbert and Sons","hotelCoordinates":"-7.4869186, 108.4691492","roomTypeId":"","roomTypeName":"Vinny","country":"Indonesia","city":"Menol","region":null,"price":776.17}
+{"create": {"_index": "hotels"}}
+{"hotelId":"7275dea6-a4a4-43ec-b797-48ad347a6371","hotelName":"Lakin, Kozey and Rogahn","hotelCoordinates":"6.444345, 124.925696","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Parker","country":"Philippines","city":"Tampakan","region":null,"price":480.14}
+{"create": {"_index": "hotels"}}
+{"hotelId":"769b580a-1393-494c-ac5a-53b103fcb554","hotelName":"Schimmel, Upton and Streich","hotelCoordinates":"12.3390296, -83.6747342","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Morry","country":"Nicaragua","city":"Laguna de Perlas","region":null,"price":817.86}
+{"create": {"_index": "hotels"}}
+{"hotelId":"5aa5c8b7-0095-4ec6-9971-ec05346390ad","hotelName":"Mann, Zboncak and Morar","hotelCoordinates":"-2.7217612, 115.2007728","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Cinnamon","country":"Indonesia","city":"Kandangan","region":null,"price":658.41}
+{"create": {"_index": "hotels"}}
+{"hotelId":"653667a8-f8bb-40f7-b85c-d02c48d0f459","hotelName":"Rodriguez, Dietrich and DuBuque","hotelCoordinates":"-31.946337, -65.180261","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Norri","country":"Argentina","city":"Villa Dolores","region":null,"price":993.99}
+{"create": {"_index": "hotels"}}
+{"hotelId":"73774162-5ad7-4382-a446-399140a334d8","hotelName":"Champlin Group","hotelCoordinates":"41.9300434, -8.7427836","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Blair","country":"Portugal","city":"Quinta da Torre","region":"Viana do Castelo","price":581.48}
+{"create": {"_index": "hotels"}}
+{"hotelId":"8f73dec6-a48a-47bc-a512-ebcb406d4301","hotelName":"Bins-West","hotelCoordinates":"41.136741, 20.384833","roomTypeId":"","roomTypeName":"Toby","country":"Albania","city":"Librazhd-Qendër","region":null,"price":832.68}
+{"create": {"_index": "hotels"}}
+{"hotelId":"32a96449-7c8d-4f70-8e2c-9908439bc8d0","hotelName":"Green LLC","hotelCoordinates":"50.367737, 21.275513","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Cecilio","country":"Poland","city":"Górki","region":null,"price":52.25}
+{"create": {"_index": "hotels"}}
+{"hotelId":"3b7ef9f4-e8be-4498-bf48-b70014bf3d16","hotelName":"Thompson, Bergstrom and Bayer","hotelCoordinates":"49.7517708, 17.919916","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Demetri","country":"Czech Republic","city":"Lukavec","region":null,"price":836.68}
+{"create": {"_index": "hotels"}}
+{"hotelId":"a0e3c188-d044-4744-9b8b-192999289f59","hotelName":"Jones-Douglas","hotelCoordinates":"37.868872, 116.144417","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Costa","country":"China","city":"Fucheng","region":null,"price":777.26}
+{"create": {"_index": "hotels"}}
+{"hotelId":"ec17a4ce-ada6-46a7-a78c-bcb1bc341beb","hotelName":"Labadie-Predovic","hotelCoordinates":"60.3475308, 5.3728746","roomTypeId":"","roomTypeName":"Frans","country":"Norway","city":"Bergen","region":"Hordaland","price":922.68}
+{"create": {"_index": "hotels"}}
+{"hotelId":"9f46796c-855f-4734-afba-0e06bf368511","hotelName":"Yundt LLC","hotelCoordinates":"40.3208847, -76.8836261","roomTypeId":"","roomTypeName":"Alphard","country":"United States","city":"Harrisburg","region":"Pennsylvania","price":410.21}
+{"create": {"_index": "hotels"}}
+{"hotelId":"01ab13f2-efda-4958-baf0-47189a4d9187","hotelName":"Leannon Inc","hotelCoordinates":"-26.9777363, -56.828301","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Cyrille","country":"Paraguay","city":"San Patricio","region":null,"price":593.82}
+{"create": {"_index": "hotels"}}
+{"hotelId":"f3f368d5-5403-453b-832f-ffe0b0efe3eb","hotelName":"Hilll-Stehr","hotelCoordinates":"19.3376878, -99.0591821","roomTypeId":"","roomTypeName":"Querida","country":"Mexico","city":"Francisco Villa","region":"Chihuahua","price":378.65}
+{"create": {"_index": "hotels"}}
+{"hotelId":"af870ad0-87a0-470a-a1a9-b58b3fa74da1","hotelName":"Walter-Gislason","hotelCoordinates":"1.558031, 110.382845","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Nissa","country":"Malaysia","city":"Kuching","region":"Sarawak","price":670.09}
+{"create": {"_index": "hotels"}}
+{"hotelId":"ce13be40-a9a9-4f67-8015-5c4b3f0f5408","hotelName":"Nitzsche Inc","hotelCoordinates":"29.278608, 108.098075","roomTypeId":"","roomTypeName":"Allard","country":"China","city":"Dianshui","region":null,"price":741.15}
+{"create": {"_index": "hotels"}}
+{"hotelId":"d3d0333d-e60a-45f8-b96b-6f8a7f3fa195","hotelName":"Kreiger Inc","hotelCoordinates":"32.5326308, 20.5870955","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Sholom","country":"Libya","city":"Tūkrah","region":null,"price":696.49}
+{"create": {"_index": "hotels"}}
+{"hotelId":"ffa49d88-a4ed-460e-bffd-eef759599ad6","hotelName":"Monahan Inc","hotelCoordinates":"37.186035, 120.701061","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Rollin","country":"China","city":"Guanli","region":null,"price":105.12}
+{"create": {"_index": "hotels"}}
+{"hotelId":"646e6c08-176b-451f-abe1-0e61cbaa7875","hotelName":"Hayes, Mueller and Cummings","hotelCoordinates":"38.2643887, 140.2604198","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Eolanda","country":"Japan","city":"Furudate","region":null,"price":766.31}
+{"create": {"_index": "hotels"}}
+{"hotelId":"53d2b523-97a4-497b-90ab-153188b9d22b","hotelName":"Langosh, Grant and O'Keefe","hotelCoordinates":"13.8135951, 100.4227992","roomTypeId":"","roomTypeName":"Devin","country":"Thailand","city":"Bangkok","region":null,"price":218.63}
+{"create": {"_index": "hotels"}}
+{"hotelId":"3910c5d2-31da-4dba-b2b7-7437455f6aa1","hotelName":"Dibbert, McGlynn and Stark","hotelCoordinates":"46.975033, 31.9945829","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Leon","country":"Ukraine","city":"Mykolayiv","region":null,"price":445.56}
+{"create": {"_index": "hotels"}}
+{"hotelId":"a99dad32-e9f7-45ff-8db6-12f2076facd6","hotelName":"Halvorson-Mosciski","hotelCoordinates":"-7.8431154, 110.3772042","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Raul","country":"Indonesia","city":"Glondong","region":null,"price":81.66}
+{"create": {"_index": "hotels"}}
+{"hotelId":"a90e368d-6cc6-407a-bb3d-f8e8d098bf03","hotelName":"Dach Inc","hotelCoordinates":"44.9921453, 40.6005314","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Giovanna","country":"Russia","city":"Rassvet","region":null,"price":889.2}
+{"create": {"_index": "hotels"}}
+{"hotelId":"bffbb815-306e-4c11-b977-e02fafa54ae7","hotelName":"Conroy, King and Bailey","hotelCoordinates":"8.3804095, 124.2716911","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Selene","country":"Philippines","city":"Manticao","region":null,"price":324.93}
+{"create": {"_index": "hotels"}}
+{"hotelId":"012098d4-eb5d-4a36-9cba-7eaae9643669","hotelName":"Lynch, Bechtelar and Braun","hotelCoordinates":"31.036218, 120.921726","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Damon","country":"China","city":"Jinze","region":null,"price":646.6}
+{"create": {"_index": "hotels"}}
+{"hotelId":"d423d666-8ea9-437f-8c69-8646f17b10de","hotelName":"Kozey Group","hotelCoordinates":"-7.3811967, -39.2791011","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Edgard","country":"Brazil","city":"Barbalha","region":null,"price":671.04}
+{"create": {"_index": "hotels"}}
+{"hotelId":"9b756b04-5244-42fb-b0af-544655f708b6","hotelName":"O'Reilly, Russel and Kovacek","hotelCoordinates":"-6.6034663, 106.470036","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Crosby","country":"Indonesia","city":"Pasirmadang","region":null,"price":234.65}
+{"create": {"_index": "hotels"}}
+{"hotelId":"73b9dfb9-91ca-4b4f-94a3-40a881cc2f7e","hotelName":"Jacobs, Walsh and Johnson","hotelCoordinates":"44.0207262, 20.4633133","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Vanya","country":"Serbia","city":"Gornji Milanovac","region":null,"price":762.93}
+{"create": {"_index": "hotels"}}
+{"hotelId":"283fd813-4524-4a83-b24c-2b72a259a24b","hotelName":"Von-Stamm","hotelCoordinates":"-8.2735418, 114.8864193","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Bernhard","country":"Indonesia","city":"Pangkungparuk","region":null,"price":166.89}
+{"create": {"_index": "hotels"}}
+{"hotelId":"f422d45e-4eb1-4e33-af49-3e0784a968f3","hotelName":"Nolan, Reichert and Schoen","hotelCoordinates":"0.3144046, 32.9888319","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Travus","country":"Uganda","city":"Buikwe","region":null,"price":787.39}
+{"create": {"_index": "hotels"}}
+{"hotelId":"b23eceee-e8b1-4681-a95c-ba42d9b8ddb8","hotelName":"Grant-Watsica","hotelCoordinates":"-14.16568, -72.658867","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Cassandre","country":"Peru","city":"Pataypampa","region":null,"price":939.13}
+{"create": {"_index": "hotels"}}
+{"hotelId":"2802c7e2-d8a9-4268-b88d-90577cb786cd","hotelName":"Konopelski Group","hotelCoordinates":"-7.4242735, -79.5069436","roomTypeId":"","roomTypeName":"Solomon","country":"Peru","city":"San Pedro de Lloc","region":null,"price":394.33}
+{"create": {"_index": "hotels"}}
+{"hotelId":"4dc768fc-8d77-4a02-b52f-cebd447b4003","hotelName":"Hand Inc","hotelCoordinates":"15.9880572, 120.3487416","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Lanette","country":"Philippines","city":"Doyong","region":null,"price":559.85}
+{"create": {"_index": "hotels"}}
+{"hotelId":"6485ae14-9688-4c4a-a448-ab9a2e5c8e0f","hotelName":"Schumm-Schmidt","hotelCoordinates":"-7.1311, 108.5671","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Ignatius","country":"Indonesia","city":"Pahing Jalatrang","region":null,"price":432.27}
+{"create": {"_index": "hotels"}}
+{"hotelId":"33e9e749-4f42-43df-a3eb-4334e648617e","hotelName":"Ledner LLC","hotelCoordinates":"-8.7377882, 122.2171695","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Donnajean","country":"Indonesia","city":"Lela","region":null,"price":311.87}
+{"create": {"_index": "hotels"}}
+{"hotelId":"d2e9d156-f8a9-4c39-97fe-9553e5ec67d4","hotelName":"Yost-Considine","hotelCoordinates":"28.168408, 120.482198","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Lurlene","country":"China","city":"Qiaotou","region":null,"price":984.56}
+{"create": {"_index": "hotels"}}
+{"hotelId":"96d6097c-2961-4cbd-86eb-b5c9ec13ebce","hotelName":"Koepp LLC","hotelCoordinates":"59.2669111, 17.8885705","roomTypeId":"","roomTypeName":"Gerrard","country":"Sweden","city":"Vårby","region":"Stockholm","price":646.32}
+{"create": {"_index": "hotels"}}
+{"hotelId":"97c1fe4b-91b4-44c4-b8d5-bf499d1016b5","hotelName":"Walter LLC","hotelCoordinates":"-2.1596406, -79.8184684","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Ives","country":"Ecuador","city":"Eloy Alfaro","region":null,"price":817.52}
+{"create": {"_index": "hotels"}}
+{"hotelId":"5ae8b850-986e-4a29-b9ff-e480d044f025","hotelName":"King-Hodkiewicz","hotelCoordinates":"-6.9818839, 110.447063","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Desi","country":"Indonesia","city":"Gayamsari","region":null,"price":211.16}
+{"create": {"_index": "hotels"}}
+{"hotelId":"a5e4ebec-fefd-4e2b-9e48-eb99550df0df","hotelName":"Schuppe-Schiller","hotelCoordinates":"33.4614354, 9.0294708","roomTypeId":"","roomTypeName":"Halimeda","country":"Tunisia","city":"Douz","region":null,"price":867.7}
+{"create": {"_index": "hotels"}}
+{"hotelId":"d572309e-701d-4e51-9b19-2c48aa29c923","hotelName":"Renner, Dickinson and Schuster","hotelCoordinates":"40.4501529, -7.9700042","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Talya","country":"Portugal","city":"Oliveirinha","region":"Viseu","price":881.17}
+{"create": {"_index": "hotels"}}
+{"hotelId":"acc7d8ac-63f2-4ee5-97f5-5f099f64da7a","hotelName":"Sauer Inc","hotelCoordinates":"60.4624232, 23.5496765","roomTypeId":"","roomTypeName":"Carlo","country":"Finland","city":"Kiikala","region":null,"price":995.11}
+{"create": {"_index": "hotels"}}
+{"hotelId":"56bbe2ca-0f7d-45ce-af46-4b98dfecf652","hotelName":"Douglas-Larkin","hotelCoordinates":"7.9929954, -10.9524441","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Rodolfo","country":"Sierra Leone","city":"Segbwema","region":null,"price":620.46}
+{"create": {"_index": "hotels"}}
+{"hotelId":"57b093bd-9e08-48ec-9a3e-4908d9d6ed89","hotelName":"Bode LLC","hotelCoordinates":"24.173306, 113.535247","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Ardenia","country":"China","city":"Shatoujiao","region":null,"price":299.01}
+{"create": {"_index": "hotels"}}
+{"hotelId":"e3393f98-305e-4d6a-b7ed-56b5326f42f6","hotelName":"Gorczany LLC","hotelCoordinates":"-9.3326512, 32.7548364","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Bordie","country":"Zambia","city":"Nakonde","region":null,"price":840.22}
+{"create": {"_index": "hotels"}}
+{"hotelId":"11b7b9f3-f9f2-4e9d-a1a6-99b3b6fa4215","hotelName":"Shanahan, Greenholt and Veum","hotelCoordinates":"54.3667173, 92.1024101","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Byrann","country":"Russia","city":"Idrinskoye","region":null,"price":284.03}
+{"create": {"_index": "hotels"}}
+{"hotelId":"c370566d-0296-4767-9981-bfdbb9151a9d","hotelName":"Lang, Kemmer and Kutch","hotelCoordinates":"-2.1110964, 115.1533426","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Travis","country":"Indonesia","city":"Tamianglayang","region":null,"price":558.19}
+{"create": {"_index": "hotels"}}
+{"hotelId":"5996bcb7-81cd-4c0e-965f-9926e7f00d32","hotelName":"Medhurst LLC","hotelCoordinates":"41.027698, 26.2935333","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Trumaine","country":"Greece","city":"Tycheró","region":null,"price":739.01}
+{"create": {"_index": "hotels"}}
+{"hotelId":"95e33bd3-e044-41f8-b6a4-5527a4fcd195","hotelName":"Wyman Inc","hotelCoordinates":"29.866917, 118.403786","roomTypeId":"","roomTypeName":"Garrett","country":"China","city":"Xitou","region":null,"price":216.85}
+{"create": {"_index": "hotels"}}
+{"hotelId":"28eee2d4-f10b-46bb-b0ae-856f4968fd11","hotelName":"Hand Inc","hotelCoordinates":"9.3296921, 125.9334539","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Vyky","country":"Philippines","city":"Panikian","region":null,"price":7.33}
+{"create": {"_index": "hotels"}}
+{"hotelId":"bbe1ba97-a1fc-4674-b062-a2aab04eaeea","hotelName":"Treutel, Franecki and Marvin","hotelCoordinates":"23.365556, 116.70345","roomTypeId":"","roomTypeName":"Decca","country":"China","city":"Jinping","region":null,"price":397.19}
+{"create": {"_index": "hotels"}}
+{"hotelId":"a48525a8-d3eb-4e11-9651-3af47fe841ee","hotelName":"Grant, Armstrong and Hamill","hotelCoordinates":"3.7334765, 96.7999931","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Allix","country":"Indonesia","city":"Samadua","region":null,"price":964.55}
+{"create": {"_index": "hotels"}}
+{"hotelId":"61071ab9-81aa-4fa3-ab1f-1e405e6b4486","hotelName":"Gutmann LLC","hotelCoordinates":"32.901093, -6.7761686","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Selia","country":"Morocco","city":"Boujniba","region":null,"price":414.05}
+{"create": {"_index": "hotels"}}
+{"hotelId":"66e59b9e-00e6-4f33-9636-37016340ba41","hotelName":"Wolf-Torphy","hotelCoordinates":"-8.0146, 111.9856","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Simone","country":"Indonesia","city":"Ngamba","region":null,"price":876.51}
+{"create": {"_index": "hotels"}}
+{"hotelId":"9d6a464e-20d1-4226-ad19-a4725c9f36e2","hotelName":"Tremblay Inc","hotelCoordinates":"23.028956, 113.143441","roomTypeId":"","roomTypeName":"Beatrix","country":"China","city":"Nanhai","region":null,"price":579.85}
+{"create": {"_index": "hotels"}}
+{"hotelId":"5b488aa8-5261-4b30-8a45-e3743fbdafa2","hotelName":"Spinka Inc","hotelCoordinates":"51.6113555, 19.8982345","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Lianna","country":"Poland","city":"Ujazd","region":null,"price":745.77}
+{"create": {"_index": "hotels"}}
+{"hotelId":"d4c5cf30-b3cd-4e31-a243-5ad34ff5303b","hotelName":"Ferry-Hoppe","hotelCoordinates":"44.9870496, 38.994454","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Susie","country":"Russia","city":"Krasnodar","region":null,"price":167.49}
+{"create": {"_index": "hotels"}}
+{"hotelId":"5f95df0a-9ab0-4171-8a85-d193d352ce91","hotelName":"Okuneva, Leuschke and Lemke","hotelCoordinates":"8.538323, 37.973162","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Forester","country":"Ethiopia","city":"Giyon","region":null,"price":923.84}
+{"create": {"_index": "hotels"}}
+{"hotelId":"602a7a3d-6e2e-4f5e-9e6d-cbe67efbf0fe","hotelName":"Ledner, Vandervort and Ward","hotelCoordinates":"38.235041, 115.726317","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Joela","country":"China","city":"Maying","region":null,"price":621.79}
+{"create": {"_index": "hotels"}}
+{"hotelId":"f352ea32-e9fe-4d40-a043-18aa7d04707c","hotelName":"Goodwin Inc","hotelCoordinates":"-6.3376, 106.0164","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Mallissa","country":"Indonesia","city":"Rancanyenang","region":null,"price":923.63}
+{"create": {"_index": "hotels"}}
+{"hotelId":"78e202c4-0504-412c-95f2-39cab44e76f8","hotelName":"McGlynn, Nikolaus and Schmidt","hotelCoordinates":"59.9162711, 10.7067713","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Sara-ann","country":"Norway","city":"Oslo","region":"Oslo","price":905.46}
+{"create": {"_index": "hotels"}}
+{"hotelId":"c9151e8b-7120-4c88-ac2b-9ba4302147ec","hotelName":"Aufderhar-Kessler","hotelCoordinates":"43.6164958, 3.8308136","roomTypeId":"","roomTypeName":"Janelle","country":"France","city":"Moulins","region":"Auvergne","price":919.32}
+{"create": {"_index": "hotels"}}
+{"hotelId":"6ac513fa-f615-4d70-a6ad-8cb883fd21ce","hotelName":"Trantow-Rohan","hotelCoordinates":"-39.6241126, 176.8270545","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Elnora","country":"New Zealand","city":"Hastings","region":null,"price":102.78}
+{"create": {"_index": "hotels"}}
+{"hotelId":"c9b1d856-1f2b-4aef-a511-bb5a5f2d2b33","hotelName":"Gibson and Sons","hotelCoordinates":"39.672791, 113.732809","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Berry","country":"China","city":"Hengshan","region":null,"price":718.01}
+{"create": {"_index": "hotels"}}
+{"hotelId":"2fdc7898-fb4f-4108-99f2-5a45058b6106","hotelName":"McCullough and Sons","hotelCoordinates":"7.1972968, 38.6005328","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Jennilee","country":"Ethiopia","city":"Shashemenē","region":null,"price":316.16}
+{"create": {"_index": "hotels"}}
+{"hotelId":"f24f22ad-99d4-4c2c-8974-6336e19c0834","hotelName":"Fisher, Blanda and Trantow","hotelCoordinates":"44.0328, 42.8813","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Brena","country":"Russia","city":"Yessentukskaya","region":null,"price":119.34}
+{"create": {"_index": "hotels"}}
+{"hotelId":"96f21c04-185a-4625-89b0-df9fff79d8e3","hotelName":"Pagac-Walker","hotelCoordinates":"-2.3769393, 112.858217","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Ly","country":"Indonesia","city":"Kotabesi","region":null,"price":76.4}
+{"create": {"_index": "hotels"}}
+{"hotelId":"ce15f8a4-b623-4d2e-9903-9214ad3b8a27","hotelName":"Boyle, Ferry and Dickens","hotelCoordinates":"-8.4642661, 118.7449028","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Yolanthe","country":"Indonesia","city":"Bima","region":null,"price":82.1}
+{"create": {"_index": "hotels"}}
+{"hotelId":"5c0308f4-0f85-4d83-8f1a-27539f021a01","hotelName":"Collins and Sons","hotelCoordinates":"11.4967991, 122.6946707","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Adey","country":"Philippines","city":"Mianay","region":null,"price":578.49}
+{"create": {"_index": "hotels"}}
+{"hotelId":"4efa099b-4d3a-4b38-9919-eaa124e7095e","hotelName":"Goyette, Moen and Weissnat","hotelCoordinates":"26.571674, 117.669428","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Gerhard","country":"China","city":"Xiamao","region":null,"price":494.55}
+{"create": {"_index": "hotels"}}
+{"hotelId":"cd563c4d-e4ae-4a88-86e8-85d565dda19f","hotelName":"Reynolds, Frami and Veum","hotelCoordinates":"43.4945737, 5.8978018","roomTypeId":"DOUBLE_STANDARD","roomTypeName":"Terrence","country":"France","city":"Paris 05","region":"Île-de-France","price":677.06}
+{"create": {"_index": "hotels"}}
+{"hotelId":"937e8ec9-057e-4a9a-8a86-4af8e4e31636","hotelName":"Kunde-Heathcote","hotelCoordinates":"14.211024, 45.3868766","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Yulma","country":"Yemen","city":"Āl Ma‘ūdah","region":null,"price":968.03}
+{"create": {"_index": "hotels"}}
+{"hotelId":"1af9b25c-8582-41bf-98a2-ab9dae2f33f2","hotelName":"Stoltenberg Inc","hotelCoordinates":"56.1138556, 13.6083989","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Andres","country":"Sweden","city":"Tyringe","region":"Skåne","price":717.04}
+{"create": {"_index": "hotels"}}
+{"hotelId":"b560378f-0a60-446a-b712-daa1d153ec87","hotelName":"Stark, Johnson and Keebler","hotelCoordinates":"-2.0185322, 33.8746152","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Patty","country":"Tanzania","city":"Bunda","region":null,"price":594.11}
+{"create": {"_index": "hotels"}}
+{"hotelId":"ae9feb87-cdb7-4dbd-950c-c627e8160819","hotelName":"Klocko-Stehr","hotelCoordinates":"43.6399974, 1.4282563","roomTypeId":"JUNIOR_SUITE","roomTypeName":"Alexi","country":"France","city":"Toulouse","region":"Midi-Pyrénées","price":214.72}
