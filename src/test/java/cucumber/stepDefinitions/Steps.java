@@ -4,19 +4,15 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThanOrEqualTo;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.DeserializationFeature;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.verychicpoc.dto.OpenSearchResponse;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-import java.text.Collator;
-import java.util.Collections;
-import java.util.LinkedHashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
 
 public class Steps {
 
@@ -69,26 +65,19 @@ public class Steps {
   }
 
   @Then("the user gets the previous list of results filtered by multiple room types")
-  public void theUserGetsThePreviousListOfResultsFilteredByMultipleRoomTypes() {
+  public void theUserGetsThePreviousListOfResultsFilteredByMultipleRoomTypes()
+      throws JsonProcessingException {
     response.then().statusCode(200).assertThat()
         .body("hits.total.value", greaterThanOrEqualTo(1));
 
-    JsonPath json = new JsonPath(response.asString());
 
-    Map<String,String> firstElement = (Map<String, String>) json.getList("hits.hits").get(0);
+    String responseBodyString = response.getBody().asString();
 
+    ObjectMapper objectMapper = new ObjectMapper();
+    objectMapper.configure(DeserializationFeature.FAIL_ON_NULL_FOR_PRIMITIVES, false);
 
-    System.out.println(">>>" + json.getList("hits.hits").toString());
-
-//    String searchHits = getJsonPathAsString(response, "hits.hits");
-//    searchResults.stream()
-//        .filter(entry -> entry.getKey().startsWith("_source"))
-//        .map(entry -> entry.getValue().toString())
-//        .collect(Collectors.toList());
-  }
-
-  public static String getJsonPathAsString(Response response, String key) {
-    JsonPath json = new JsonPath(response.asString());
-    return json.get(key).toString();
+    OpenSearchResponse searchFullResponse = objectMapper.readValue(
+        responseBodyString,
+        OpenSearchResponse.class);
   }
 }
