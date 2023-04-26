@@ -8,11 +8,14 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.verychicpoc.dto.OpenSearchResponse;
+import com.verychicpoc.dto.SearchHit;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
+import java.util.List;
+import org.junit.Assert;
 
 public class Steps {
 
@@ -70,14 +73,17 @@ public class Steps {
     response.then().statusCode(200).assertThat()
         .body("hits.total.value", greaterThanOrEqualTo(1));
 
-
-    String responseBodyString = response.getBody().asString();
-
     ObjectMapper objectMapper = new ObjectMapper();
     objectMapper.configure(DeserializationFeature.FAIL_ON_NULL_FOR_PRIMITIVES, false);
-
     OpenSearchResponse searchFullResponse = objectMapper.readValue(
-        responseBodyString,
+        response.getBody().asString(),
         OpenSearchResponse.class);
+
+    List<SearchHit> searchHits = searchFullResponse.hits.hits;
+
+    for (SearchHit hit: searchHits) {
+      Assert.assertTrue(hit._source.roomTypeId.contains("DOUBLE_STANDARD")
+          || hit._source.roomTypeId.contains("JUNIOR_SUITE"));
+    }
   }
 }
